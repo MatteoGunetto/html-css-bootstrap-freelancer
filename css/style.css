@@ -38,6 +38,9 @@
     background-color: white;
     border-radius: 15px; 
 }
+#avatar{
+    width: 20%;
+}
 .text{
     margin-bottom: 20px;
 }
