@@ -41,3 +41,23 @@
 .text{
     margin-bottom: 20px;
 }
+.download{
+    padding: 10px 0px;
+    border-style: none;
+
+}
+/*footer*/
+
+.footer-sup
+{
+    background-color: rgb(58, 84, 109);
+    min-height: 200px;
+    color: white;
+}
+
+.footer-sub
+{
+    background-color: rgb(44, 62, 80);
+    min-height: 200px;
+    color: white;
+}
