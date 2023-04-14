@@ -12,3 +12,32 @@
     min-height: 300px ;
 
 }
+/* regole colore/impaginazione */
+.content {
+    width: 100%;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    
+}
+.content img{
+    width: 350px;
+    height: 280px;
+}
+
+.black-line{
+    width: 15%;
+    height: .2rem;
+    background-color: black;
+    border-radius: 15px; 
+}
+
+.white-line{
+    width: 15%;
+    height: .2rem;
+    background-color: white;
+    border-radius: 15px; 
+}
+.text{
+    margin-bottom: 20px;
+}
