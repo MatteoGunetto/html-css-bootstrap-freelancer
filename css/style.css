@@ -16,7 +16,7 @@
     color: white;
 }
 .nav-link{
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .navbar-toggler{
     color: white;
@@ -153,3 +153,6 @@ padding: 7px;}
     min-height: 200px;
     color: white;
 }
+
+
+
